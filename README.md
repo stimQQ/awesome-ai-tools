@@ -125,12 +125,13 @@ Submitting your AI tool is completely free. Once approved, you'll receive:
 - [Craiyon](https://craiyon.com) - Completely free AI image generator, no account required.
 
 ### Image Upscaling & Enhancement
-- [Upscayl](https://upscayl.org) - Free open-source AI upscaler, runs locally. No watermark, no upload limits. Supports 4x/8x via Real-ESRGAN.
-- [Upscale.media](https://upscale.media) - Online AI image upscaler, free tier, no signup required for basic use.
 - [Let's Enhance](https://letsenhance.io) - AI photo enhancer and upscaler. Improves quality and resolution in one click.
-- [Topaz Gigapixel AI](https://topazlabs.com/gigapixel-ai) - Professional AI image upscaler supporting up to 6x enlargement.
-- [VanceAI](https://vanceai.com) - AI image upscaler with batch processing support. Free credits available.
 - [Pixelbin](https://pixelbin.io) - AI image enhancement and transformation platform. Free plan available.
+- [SparkPix](https://sparkpix.ai) - AI photo editor to make AI-generated images look more real.
+- [Topaz Gigapixel AI](https://topazlabs.com/gigapixel-ai) - Professional AI image upscaler supporting up to 6x enlargement.
+- [Upscale.media](https://upscale.media) - Online AI image upscaler, free tier, no signup required for basic use.
+- [Upscayl](https://upscayl.org) - Free open-source AI upscaler, runs locally. No watermark, no upload limits. Supports 4x/8x via Real-ESRGAN.
+- [VanceAI](https://vanceai.com) - AI image upscaler with batch processing support. Free credits available.
 
 ### Background Removal
 - [Remove.bg](https://remove.bg) - One-click AI background remover. Free for low-resolution output.
